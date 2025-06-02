@@ -38,3 +38,5 @@ Built for SwiftCart's early feedback collection while the CRM is in development.
    ```bash
    git clone https://github.com/Amarachi-flora/swiftcart-feedback-logger.git
    cd swiftcart-feedback-logger
+
+   python feedback_logger.py
